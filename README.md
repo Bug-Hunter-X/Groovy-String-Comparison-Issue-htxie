@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy bug related to string comparison and null handling. The `bug.groovy` file shows the problematic code, while `bugSolution.groovy` provides a corrected version that addresses the issue.  The issue stems from Groovy's flexible typing system and how it handles null and empty strings in comparisons.
